@@ -1,0 +1,201 @@
+shop_id,shop_name,city,monthly_sales_usd,employee_count,category
+1,Tech Oasis,New York,85000.5,15,Electronics
+2,Fresh Market Place,London,45200.75,8,Groceries
+3,Style Spot,Paris,22340,5,Apparel
+4,The Book Nook,Berlin,12980.25,3,Books
+5,Home Comforts,New York,61120.9,12,Furniture
+6,Gadget Central,Tokyo,98700.1,18,Electronics
+7,Daily Greens,London,35600.4,6,Groceries
+8,Fashion Forward,Paris,38900.5,7,Apparel
+9,Page Turners,Berlin,15700.8,4,Books
+10,Sofa Dreams,Tokyo,72400.35,14,Furniture
+11,Circuit City,New York,110500.2,25,Electronics
+12,Organic Hub,London,55800.9,10,Groceries
+13,Urban Threads,Paris,29100.15,6,Apparel
+14,Knowledge Base,Berlin,18200.6,5,Books
+15,Wood & Weave,Tokyo,58900.7,11,Furniture
+16,Future Store,New York,125400.7,30,Electronics
+17,The Butcher Block,London,40500.25,7,Groceries
+18,Dress Code,Paris,41600.3,8,Apparel
+19,Novel Ideas,Berlin,11500.9,3,Books
+20,Rustic Furnishings,Tokyo,66700.45,13,Furniture
+21,E-World,New York,75300.6,14,Electronics
+22,Local Produce,London,31900.1,5,Groceries
+23,Hats & More,Paris,18800.75,4,Apparel
+24,Sci-Fi Scrolls,Berlin,20100,6,Books
+25,Patio Paradise,Tokyo,80200.88,16,Furniture
+26,Power House,Shanghai,65900.5,12,Electronics
+27,Fresh Catch,Shanghai,49800.6,9,Groceries
+28,Shoe Gallery,Shanghai,33400.2,7,Apparel
+29,History Reads,Shanghai,14500.3,4,Books
+30,Kitchen Gear,Shanghai,55100.8,10,Furniture
+31,Sound & Vision,Sydney,90200.1,17,Electronics
+32,Deli Deluxe,Sydney,43100.9,8,Groceries
+33,Knitwear King,Sydney,25600.4,5,Apparel
+34,Travel Guides,Sydney,17800.15,4,Books
+35,Outdoor Living,Sydney,68500.25,13,Furniture
+36,Micro World,Shanghai,105600.75,22,Electronics
+37,Baked Goods,Shanghai,39000.3,7,Groceries
+38,Jeans Junction,Shanghai,45700.9,9,Apparel
+39,Childrens Tales,Shanghai,10100.55,3,Books
+40,Bedroom Bliss,Shanghai,60800.1,11,Furniture
+41,Digital Dream,Sydney,78900.4,15,Electronics
+42,Seafood Stop,Sydney,52300.2,10,Groceries
+43,Active Wear,Sydney,31200.6,6,Apparel
+44,Poetry Corner,Sydney,19400.8,5,Books
+45,Dining Delights,Sydney,75000.5,14,Furniture
+46,Mega Byte,New York,130100,35,Electronics
+47,Corner Grocer,London,30900.15,5,Groceries
+48,Accessory Lane,Paris,20500.8,4,Apparel
+49,Magazine Rack,Berlin,13700.4,3,Books
+50,Comfort Zone,Tokyo,54300.95,10,Furniture
+51,Electro Depot,Shanghai,91500.3,16,Electronics
+52,Fruit Basket,London,46700.1,9,Groceries
+53,Tie Central,Paris,28900.6,6,Apparel
+54,Art & Design,New York,16500.7,4,Books
+55,Recliner Realm,Berlin,69800.2,13,Furniture
+56,Tech Tower,Tokyo,115000.9,28,Electronics
+57,Spice World,Sydney,37500.5,7,Groceries
+58,Kids Wear,Shanghai,24100.25,5,Apparel
+59,Business Reads,Sydney,21300.45,6,Books
+60,Modular Living,New York,78100.6,15,Furniture
+61,The Grid,Paris,70200.8,13,Electronics
+62,Vegetable Patch,Tokyo,32500,6,Groceries
+63,Pants Place,London,36400.1,7,Apparel
+64,Fantasy Land,Shanghai,17000.9,4,Books
+65,Office Chairs,Sydney,49500.3,9,Furniture
+66,Digital Age,Berlin,102500.45,20,Electronics
+67,The Dairy,New York,41800.7,8,Groceries
+68,Jacket Jamboree,Tokyo,40500.9,8,Apparel
+69,Cooking Books,Paris,10500.5,3,Books
+70,Ottoman Outlet,London,51200.25,10,Furniture
+71,Alpha Tech,Sydney,88900.15,16,Electronics
+72,Meats & Poultry,Shanghai,48900.35,9,Groceries
+73,Swimsuit Shop,Berlin,26700.8,5,Apparel
+74,Science Texts,Tokyo,14800.65,4,Books
+75,Mattress Mart,Paris,63500.9,12,Furniture
+76,Quantum Electronics,London,118000.3,26,Electronics
+77,Canned Goods,New York,34200.5,6,Groceries
+78,Sportswear Pro,Sydney,48500.7,9,Apparel
+79,Hobby Guides,Shanghai,12100.35,3,Books
+80,Shelf Solutions,Berlin,45600.1,8,Furniture
+81,Mobile Mania,Tokyo,93400.25,17,Electronics
+82,International Foods,Paris,50100.9,10,Groceries
+83,Underwear U,London,23900.4,5,Apparel
+84,Philosophy,Sydney,18700.2,5,Books
+85,Desk Designs,Shanghai,57800.55,11,Furniture
+86,Chip & Screen,Berlin,80500.6,15,Electronics
+87,Frozen Finds,Tokyo,36700.15,7,Groceries
+88,Maternity Style,New York,29800.75,6,Apparel
+89,Programming Texts,Paris,20900.85,6,Books
+90,Table Tops,Sydney,69500,13,Furniture
+91,Global Gadgets,London,108900.5,24,Electronics
+92,Bakery Best,Shanghai,43800.2,8,Groceries
+93,Formal Wear,Berlin,32100.3,7,Apparel
+94,Art History,Tokyo,13300.9,4,Books
+95,Cabinet Corner,New York,53400.7,10,Furniture
+96,Wired Wonders,Paris,99100.4,18,Electronics
+97,Pet Foods,Sydney,31500.6,6,Groceries
+98,Outdoor Gear,Shanghai,55900.1,11,Apparel
+99,Self-Help Reads,London,15900.75,4,Books
+100,Lamp Lair,Berlin,60100.45,12,Furniture
+101,Mega Tech,New York,140000,40,Electronics
+102,Produce King,Tokyo,58000.3,11,Groceries
+103,Discount Clothes,Paris,15000.9,4,Apparel
+104,World Atlas,Sydney,11000.5,3,Books
+105,Home Decor,Shanghai,40500.8,9,Furniture
+106,Digital Hub,London,77500.1,14,Electronics
+107,Bulk Goods,Berlin,47200.7,9,Groceries
+108,Running Shoes,Tokyo,42100.2,8,Apparel
+109,Biography Books,New York,19000.6,5,Books
+110,Side Tables,Paris,48900.4,9,Furniture
+111,Future Gear,Sydney,105000.25,23,Electronics
+112,Gourmet Treats,Shanghai,54900.85,10,Groceries
+113,Work Uniforms,London,27000.55,6,Apparel
+114,Travel Narratives,Berlin,16800.3,4,Books
+115,Luxury Sofas,Tokyo,85000.9,17,Furniture
+116,Connect Store,New York,95200.4,18,Electronics
+117,Health Foods,Paris,39500,7,Groceries
+118,Vintage Threads,Sydney,21500.1,5,Apparel
+119,Cooking Class Books,Shanghai,12400.7,3,Books
+120,Bean Bag Bazaar,London,35100.2,7,Furniture
+121,Electric Avenue,Berlin,122000.8,32,Electronics
+122,Cereal World,Tokyo,33700.45,6,Groceries
+123,Wedding Dresses,New York,30900.9,6,Apparel
+124,Textbook Centre,Paris,22100.5,6,Books
+125,Mirror Magic,Sydney,62500.6,12,Furniture
+126,Component King,Shanghai,76800.9,14,Electronics
+127,Condiment Corner,London,40100.3,7,Groceries
+128,Winter Coats,Berlin,44000.7,9,Apparel
+129,Graphic Novels,Tokyo,17500.4,4,Books
+130,Cushion Comfort,New York,50500.15,10,Furniture
+131,Screen Savers,Paris,82300.7,15,Electronics
+132,Dairy Delights,Sydney,46500.5,8,Groceries
+133,Costume Shop,Shanghai,19800.2,4,Apparel
+134,E-Book Vault,London,10800.6,3,Books
+135,Storage Solutions,Berlin,56700.95,11,Furniture
+136,Data Stream,Tokyo,100500.1,20,Electronics
+137,Snack Shack,New York,38900.75,7,Groceries
+138,T-Shirt Temple,Paris,35700.4,7,Apparel
+139,Historical Fiction,Sydney,14000.8,4,Books
+140,Outdoor Benches,Shanghai,71200.3,14,Furniture
+141,Wiz-Tech,London,135000,38,Electronics
+142,Deli Meats,Berlin,51500.6,10,Groceries
+143,Shoe Outlet,Tokyo,25500.1,5,Apparel
+144,Manga World,New York,18300.9,5,Books
+145,Accent Pieces,Paris,43200.7,8,Furniture
+146,Media Mart,Sydney,90500.3,16,Electronics
+147,Global Spices,Shanghai,36100.25,7,Groceries
+148,Lingerie Lane,London,20500.45,4,Apparel
+149,Reference Books,Berlin,15200.15,4,Books
+150,Home Library Shelves,Tokyo,64800.5,12,Furniture
+151,Network Nexus,New York,88700.6,17,Electronics
+152,Organic Dairy,Paris,44500.9,8,Groceries
+153,Headwear Hub,Sydney,22900.3,5,Apparel
+154,Childrens Education,Shanghai,11900.5,3,Books
+155,Patio Tables,London,79500.8,15,Furniture
+156,Power Surge,Berlin,112500.2,27,Electronics
+157,Juice Bar,Tokyo,30200.7,6,Groceries
+158,Formal Shirts,New York,34500.5,7,Apparel
+159,Technical Manuals,Paris,20000.4,5,Books
+160,Display Cabinets,Sydney,59100.1,11,Furniture
+161,The Receiver,Shanghai,79900.8,15,Electronics
+162,Imported Goods,London,53100.4,10,Groceries
+163,Gown Gallery,Berlin,28500.6,6,Apparel
+164,Travel Photography,Tokyo,13900.3,4,Books
+165,Garden Furniture,New York,73500.2,14,Furniture
+166,Digital Systems,Paris,128000.9,34,Electronics
+167,Vegan Grocer,Sydney,40900.1,7,Groceries
+168,Uniform Outlet,Shanghai,24900.75,5,Apparel
+169,Ancient History,London,17200.9,4,Books
+170,Bar Stools,Berlin,47800.5,9,Furniture
+171,Mobile World,Tokyo,92100.35,17,Electronics
+172,Doughnut Depot,New York,32500,6,Groceries
+173,Rain Gear,Paris,26100.8,5,Apparel
+174,Nature Guides,Sydney,16000.25,4,Books
+175,Childrens Desks,Shanghai,51000.9,10,Furniture
+176,Circuit Board Hub,London,107000.5,22,Electronics
+177,Cheese Shop,Berlin,49500.3,9,Groceries
+178,Casual Wear,Tokyo,39100.4,8,Apparel
+179,Music Theory Texts,New York,15500.6,4,Books
+180,Glass Tables,Paris,68900.7,13,Furniture
+181,Sound Central,Sydney,84500.1,16,Electronics
+182,Exotic Fruits,Shanghai,50500.2,10,Groceries
+183,Footwear Frenzy,London,37800.9,7,Apparel
+184,DIY Manuals,Berlin,19500.7,5,Books
+185,Executive Desks,Tokyo,82500.45,16,Furniture
+186,Fiber Optics,New York,115000.6,28,Electronics
+187,Frozen Desserts,Paris,35900.5,7,Groceries
+188,Belt Buckles,Sydney,18900.25,4,Apparel
+189,World Literature,Shanghai,14700.8,4,Books
+190,Rocking Chairs,London,42100.15,8,Furniture
+191,The Connector,Berlin,94500.7,19,Electronics
+192,Wine & Spirits,Tokyo,56200.3,11,Groceries
+193,Ski Gear,New York,31500.6,6,Apparel
+194,Travel Memoirs,Paris,17000.4,4,Books
+195,Filing Cabinets,Sydney,55500.9,10,Furniture
+196,Power Cable Store,Shanghai,88000.4,17,Electronics
+197,Catering Supplies,London,41000.5,8,Groceries
+198,Dance Wear,Berlin,23100.1,5,Apparel
+199,Coding Books,Tokyo,20500.9,5,Books
+200,Accent Chairs,New York,46900.3,9,Furniture

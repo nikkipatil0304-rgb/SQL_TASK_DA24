@@ -1,0 +1,4 @@
+"studentid","firstname","lastname","dateofbirth","email","major"
+101,"Alice","Smith","2004-05-15","alice.smith@university.edu","Computer Science"
+102,"Bob","Johnson","2003-11-20","bob.johnson@university.edu","Mechanical Engineering"
+103,"Charlie","Brown","2005-01-08","charlie.brown@university.edu","Art History"
